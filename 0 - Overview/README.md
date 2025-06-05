@@ -14,7 +14,6 @@ Welcome to my learning journey as I transition from backend fundamentals to more
 ---
 
 ## 🗂️ Roadmap Structure
-
 backend-beginner-to-advance/
 │
 ├── 0-overview/
@@ -73,10 +72,8 @@ backend-beginner-to-advance/
 │   │   └── README.md
 │
 ├── daily-learning-summary-log.md
-└
+└── README.md
 
-
----
 
 ## 🔍 How to Use This Repo
 
