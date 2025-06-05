@@ -14,66 +14,7 @@ Welcome to my learning journey as I transition from backend fundamentals to more
 ---
 
 ## 🗂️ Roadmap Structure
-backend-beginner-to-advance/
-│
-├── 0-overview/
-│   └── README.md  ← General intro and roadmap table
-│
-├── 1-basics/
-│   ├── 01-backend-friendly-languages/
-│   │   └── README.md
-│   ├── 02-version-control/
-│   │   └── README.md
-│   ├── 03-http-https/
-│   │   └── README.md
-│   ├── 04-request-response/
-│   │   └── README.md
-│   ├── 05-status-codes/
-│   │   └── README.md
-│   ├── 06-rest-apis/
-│   │   └── README.md
-│
-├── 2-intermediate/
-│   ├── 01-server-side-framework/
-│   │   └── README.md
-│   ├── 02-routing/
-│   │   └── README.md
-│   ├── 03-middleware/
-│   │   └── README.md
-│   ├── 04-request-parsing/
-│   │   └── README.md
-│   ├── 05-response-formatting/
-│   │   └── README.md
-│   ├── 06-mvc/
-│   │   └── README.md
-│   ├── 07-databases/
-│   │   └── README.md
-│   ├── 08-crud-operations/
-│   │   └── README.md
-│   ├── 09-joins/
-│   │   └── README.md
-│   ├── 10-indexes-constraints/
-│   │   └── README.md
-│   ├── 11-orm/
-│   │   └── README.md
-│   ├── 12-authentication-authorization/
-│   │   └── README.md
-│   ├── 13-session-management/
-│   │   └── README.md
-│   ├── 14-api-design/
-│   │   └── README.md
-│   ├── 15-restful-best-practices/
-│   │   └── README.md
-│   ├── 16-api-versioning/
-│   │   └── README.md
-│   ├── 17-pagination-filtering-sorting/
-│   │   └── README.md
-│   ├── 18-api-documentation/
-│   │   └── README.md
-│
-├── daily-learning-summary-log.md
-└── README.md
-
+<pre> ```text backend-beginner-to-advance/ │ ├── 0-overview/ │ └── README.md ← General intro and roadmap table │ ├── 1-basics/ │ ├── 01-backend-friendly-languages/ │ │ └── README.md │ ├── 02-version-control/ │ │ └── README.md │ ├── 03-http-https/ │ │ └── README.md │ ├── 04-request-response/ │ │ └── README.md │ ├── 05-status-codes/ │ │ └── README.md │ ├── 06-rest-apis/ │ │ └── README.md │ ├── 2-intermediate/ │ ├── 01-server-side-framework/ │ │ └── README.md │ ├── 02-routing/ │ │ └── README.md │ ├── 03-middleware/ │ │ └── README.md │ ├── 04-request-parsing/ │ │ └── README.md │ ├── 05-response-formatting/ │ │ └── README.md │ ├── 06-mvc/ │ │ └── README.md │ ├── 07-databases/ │ │ └── README.md │ ├── 08-crud-operations/ │ │ └── README.md │ ├── 09-joins/ │ │ └── README.md │ ├── 10-indexes-constraints/ │ │ └── README.md │ ├── 11-orm/ │ │ └── README.md │ ├── 12-authentication-authorization/ │ │ └── README.md │ ├── 13-session-management/ │ │ └── README.md │ ├── 14-api-design/ │ │ └── README.md │ ├── 15-restful-best-practices/ │ │ └── README.md │ ├── 16-api-versioning/ │ │ └── README.md │ ├── 17-pagination-filtering-sorting/ │ │ └── README.md │ ├── 18-api-documentation/ │ │ └── README.md │ ├── daily-learning-summary-log.md └── README.md ``` </pre>
 
 ## 🔍 How to Use This Repo
 
