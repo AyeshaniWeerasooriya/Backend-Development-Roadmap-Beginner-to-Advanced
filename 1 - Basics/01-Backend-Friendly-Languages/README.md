@@ -7,11 +7,23 @@ The backend is the part of a website or application that we don't see. But it do
 ---
 _**The backend is like the kitchen in a restaurant**_
 
-- When we go to a restaurant and sit at a table, we look at the menu and place our order through a waiter. At that point, we are the user, and we interact with the menu and the waiter, wich are the only parts we can actually see. This is the **frontend**.
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/5eb02360-f26b-48d2-bef9-ccab0a628984" alt="Backend as kitchen" width="350"/>
+    </td>
+    <td width="60%" align="left">
+      <ul>
+        <li>When we go to a restaurant and sit at a table, we look at the menu and place our order through a waiter. At that point, we are the user, and we interact with the menu and the waiter, which are the only parts we can actually see. This is the <strong>Frontend</strong>.</li></br>
+        <li>After that, the order is sent to the restaurant’s kitchen, where the chef prepares it using ingredients and follows specific steps. But we don’t see what happens in the kitchen. We don’t know exactly what they used or how the process worked. That hidden part is the <strong>Backend</strong>.</li></br>
+        <li>Once the food is ready, the chef hands it back to the waiter, who brings it to our table, just like how the backend sends the final result back to the frontend for the user to see.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- After that, the order is sent to the restaurant’s kitchen, where the chef prepares it using ingredients and follows specific steps. But we don’t see what happens in the kitchen. We don’t know exactly what they used or how the process worked. That hidden part is the **backend**.
 
-- Once the food is ready, the chef hands it back to the waiter, who brings it to our table — just like how the backend sends the final result back to the frontend for the user to see.
+
 
 
 
