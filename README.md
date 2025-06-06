@@ -26,7 +26,7 @@ backend-beginner-to-advance/
 │   ├── 02-version-control/
 │   │   └── <a href="./1 - Basics/02-Version-Control/README.md">README.md</a>
 │   ├── 03-http-https/
-│   │   └──<a href="./1 - Basics/03-HTTP-HTTPS/README.md">README.md</a>
+│   │   └── <a href="./1 - Basics/03-HTTP-HTTPS/README.md">README.md</a>
 │   ├── 04-request-response/
 │   │   └── <a href="./1 - Basics/04-Request-Response/README.md">README.md</a>
 │   ├── 05-status-codes/
@@ -38,7 +38,7 @@ backend-beginner-to-advance/
 │   ├── 01-server-side-framework/
 │   │   └── <a href="./2 - Intermediate/01-Server-Side-Framework/README.md">README.md</a>
 │   ├── 02-routing/
-│   │   └──<a href="./2 - Intermediate/02-Routing/README.md">README.md</a>
+│   │   └── <a href="./2 - Intermediate/02-Routing/README.md">README.md</a>
 │   ├── 03-middleware/
 │   │   └── <a href="./2 - Intermediate/03-Middleware/README.md">README.md</a>
 │   ├── 04-request-parsing/
@@ -74,7 +74,7 @@ backend-beginner-to-advance/
 │
 ├── 3-daily-learning-summary-log.md
 |  |
-|  └──<a href="./3 - Daily Learning Summaries/README.md">README.md</a>
+|  └── <a href="./3 - Daily Learning Summaries/README.md">README.md</a>
 │   
 
 </pre>
