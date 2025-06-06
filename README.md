@@ -14,7 +14,7 @@ Welcome to my learning journey as I transition from backend fundamentals to more
 ---
 
 ## 🗂️ Roadmap Structure
-```html
+
 <pre style="white-space: pre-wrap;">
 backend-beginner-to-advance/
 |
@@ -72,14 +72,14 @@ backend-beginner-to-advance/
 │   ├── 18-api-documentation/
 │   │   └── <a href="./2 - Intermediate/18-API-Documentation/README.md">README.md</a>
 │
-├── daily-learning-summary-log.md
+├── 3-daily-learning-summary-log.md
 |  |
 |  └──<a href="./3 - Daily Learning Summaries/README.md">README.md</a>
 │   
 
 </pre>
 
-``` 
+ 
 ## 🔍 How to Use This Repo
 
 - Navigate into any topic folder
