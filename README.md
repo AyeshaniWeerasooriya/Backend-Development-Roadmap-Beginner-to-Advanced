@@ -68,7 +68,7 @@ backend-beginner-to-advance/
 │   ├── 16-api-versioning/
 │   │   └── <a href="./2 - Intermediate/16-API-Versioning/README.md">README.md</a>
 │   ├── 17-pagination-filtering-sorting/
-│   │   └──<a href="./2 - Intermediate/17-Pagination-Filtering-Sourting/README.md">README.md</a>
+│   │   └── <a href="./2 - Intermediate/17-Pagination-Filtering-Sourting/README.md">README.md</a>
 │   ├── 18-api-documentation/
 │   │   └── <a href="./2 - Intermediate/18-API-Documentation/README.md">README.md</a>
 │
