@@ -7,7 +7,7 @@ The backend is the part of a website or application that we don't see. But it do
 ---
 _**The backend is like the kitchen in a restaurant**_
 
-![Description](images/download (5).jpg)
+![Description](images/download(5).jpg)
 
 - When we go to a restaurant and sit at a table, we look at the menu and place our order through a waiter. At that point, we are the user, and we interact with the menu and the waiter, wich are the only parts we can actually see. This is the **frontend**.
 
