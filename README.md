@@ -116,7 +116,6 @@ I built this roadmap to reinforce my backend development skills and to give back
 
 If you found this helpful, feel free to reach out or connect professionally:
 
-- 🔗 E-mail: [Ayeshani Weerasooriya](ayeshani.weerasooriya@gmail.com)
 - 🔗 LinkedIn: [Ayeshani Weerasooriya](https://www.linkedin.com/in/ayeshani-weerasooriya/)
 
 ---
