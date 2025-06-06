@@ -4,8 +4,9 @@
 
 The backend is the part of a website or application that we don't see. But it does all the heavy lifting, like processing data, managing database, authenticating users, handling business logic, serving content through APIs etc. 
 
+
 ---
-_**The backend is like the kitchen in a restaurant**_
+_**Backend is like the kitchen in a restaurant**_
 
 <table>
   <tr>
@@ -22,11 +23,23 @@ _**The backend is like the kitchen in a restaurant**_
   </tr>
 </table>
 
+
 ---
 
-## ✍️ What is Backend
 
+## ✍️ What Makes Up the Backend
 
+The backend is mainly built on **three core components**:
+
+- **Server** – The machine (physical or cloud) where our backend code runs.
+- **Application** – The logic written using a backend language that handles the rules, requests, and responses.
+- **Database** – Where all the app’s data is stored, retrieved, or modified.
+  
+Together, these work behind the scenes to power everything a user does on the frontend.
+
+---
+
+## ✍️ What Makes Up the Backend
 
 
 
