@@ -49,6 +49,19 @@ They handle tasks such as:
 - Handling user authentication and authorization
 - Serving client requests via APIs
 
+---
 
+## ✍️ Criteria for Choosing a Backend Language
+
+When selecting a backend language, developers usually consider:
+
+- Performance & Scalability
+- Community Support
+- Ease of Learning
+- Library/Framework Ecosystem
+- Integration with Databases & APIs
+- Job Market Demand
+
+---
 
 
