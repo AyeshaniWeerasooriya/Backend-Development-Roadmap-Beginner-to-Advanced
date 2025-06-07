@@ -39,8 +39,15 @@ Together, these work behind the scenes to power everything a user does on the fr
 
 ---
 
-## ✍️ What Makes Up the Backend
+## ✍️ What are Backend Friendly Languages 
 
+Backend-friendly languages are programming languages designed or well-suited for building the server-side logic of web applications. 
+
+They handle tasks such as:
+- Processing business logic
+- Managing databases
+- Handling user authentication and authorization
+- Serving client requests via APIs
 
 
 
