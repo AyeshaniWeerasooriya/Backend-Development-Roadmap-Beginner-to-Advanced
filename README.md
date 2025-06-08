@@ -18,62 +18,62 @@ Welcome to my learning journey as I transition from **backend development fundam
 <pre style="white-space: pre-wrap;">
 backend-beginner-to-advance/
 |
-├── <a href="./README.md">README.md</a> ← Overview & roadmap
+├── 👉 <a href="./README.md">README.md</a> ← Overview & roadmap
 │
 ├── 1-basics/
 │   ├── 01-backend-friendly-languages/
-│   │   └── <a href="./1 - Basics/01-Backend-Friendly-Languages/README.md">README.md</a>
+│   │   └── 👉 <a href="./1 - Basics/01-Backend-Friendly-Languages/README.md">Click Here</a>
 │   ├── 02-version-control/
-│   │   └── <a href="./1 - Basics/02-Version-Control/README.md">README.md</a>
+│   │   └── 👉 <a href="./1 - Basics/02-Version-Control/README.md">Click Here</a>
 │   ├── 03-http-https/
-│   │   └── <a href="./1 - Basics/03-HTTP-HTTPS/README.md">README.md</a>
+│   │   └── 👉 <a href="./1 - Basics/03-HTTP-HTTPS/README.md">Click Here</a>
 │   ├── 04-request-response/
-│   │   └── <a href="./1 - Basics/04-Request-Response/README.md">README.md</a>
+│   │   └── 👉 <a href="./1 - Basics/04-Request-Response/README.md">Click Here</a>
 │   ├── 05-status-codes/
-│   │   └── <a href="./1 - Basics/05-Status-codes/README.md">README.md</a>
+│   │   └── 👉 <a href="./1 - Basics/05-Status-codes/README.md">Click Here</a>
 │   ├── 06-rest-apis/
-│   │   └── <a href="./1 - Basics/06-Rest-API/README.md">README.md</a>
+│   │   └── 👉 <a href="./1 - Basics/06-Rest-API/README.md">Click Here</a>
 │
 ├── 2-intermediate/
 │   ├── 01-server-side-framework/
-│   │   └── <a href="./2 - Intermediate/01-Server-Side-Framework/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/01-Server-Side-Framework/README.md">Click Here</a>
 │   ├── 02-routing/
-│   │   └── <a href="./2 - Intermediate/02-Routing/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/02-Routing/README.md">Click Here</a>
 │   ├── 03-middleware/
-│   │   └── <a href="./2 - Intermediate/03-Middleware/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/03-Middleware/README.md">Click Here</a>
 │   ├── 04-request-parsing/
-│   │   └── <a href="./2 - Intermediate/04-Request-Parsing/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/04-Request-Parsing/README.md">Click Here</a>
 │   ├── 05-response-formatting/
-│   │   └── <a href="./2 - Intermediate/05-Response-formatting/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/05-Response-formatting/README.md">Click Here</a>
 │   ├── 06-mvc/
-│   │   └── <a href="./2 - Intermediate/06-MVC/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/06-MVC/README.md">Click Here</a>
 │   ├── 07-databases/
-│   │   └── <a href="./2 - Intermediate/07-Database/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/07-Database/README.md">Click Here</a>
 │   ├── 08-crud-operations/
-│   │   └── <a href="./2 - Intermediate/08-Crud-Operations/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/08-Crud-Operations/README.md">Click Here</a>
 │   ├── 09-joins/
-│   │   └── <a href="./2 - Intermediate/09-Joins/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/09-Joins/README.md">Click Here</a>
 │   ├── 10-indexes-constraints/
-│   │   └── <a href="./2 - Intermediate/10-Indexs-Constraints/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/10-Indexs-Constraints/README.md">Click Here</a>
 │   ├── 11-orm/
-│   │   └── <a href="./2 - Intermediate/11-ORM/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/11-ORM/README.md">Click Here</a>
 │   ├── 12-authentication-authorization/
-│   │   └── <a href="./2 - Intermediate/12-Authentication-Authorization/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/12-Authentication-Authorization/README.md">Click Here</a>
 │   ├── 13-session-management/
-│   │   └── <a href="./2 - Intermediate/13-Session-Management/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/13-Session-Management/README.md">Click Here</a>
 │   ├── 14-api-design/
-│   │   └── <a href="./2 - Intermediate/14-API-Design/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/14-API-Design/README.md">Click Here</a>
 │   ├── 15-restful-best-practices/
-│   │   └── <a href="./2 - Intermediate/15-Restful-Best-Practices/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/15-Restful-Best-Practices/README.md">Click Here</a>
 │   ├── 16-api-versioning/
-│   │   └── <a href="./2 - Intermediate/16-API-Versioning/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/16-API-Versioning/README.md">Click Here</a>
 │   ├── 17-pagination-filtering-sorting/
-│   │   └── <a href="./2 - Intermediate/17-Pagination-Filtering-Sourting/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/17-Pagination-Filtering-Sourting/README.md">Click Here</a>
 │   ├── 18-api-documentation/
-│   │   └── <a href="./2 - Intermediate/18-API-Documentation/README.md">README.md</a>
+│   │   └── 👉 <a href="./2 - Intermediate/18-API-Documentation/README.md">Click Here</a>
 │
 ├── 3-daily-learning-summary-log.md
-│   └── <a href="./3 - Daily Learning Summaries/README.md">README.md</a>
+│   └── 👉 <a href="./3 - Daily Learning Summaries/README.md">Click Here</a>
 </pre>
 
 ---
