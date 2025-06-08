@@ -18,7 +18,7 @@ Welcome to my learning journey as I transition from **backend development fundam
 <pre style="white-space: pre-wrap;">
 backend-beginner-to-advance/
 |
-├── 👉 <a href="./README.md">README.md</a> ← Overview & roadmap
+├── 👉 <a href="./README.md">Overview & Roadmap</a>
 │
 ├── 1-basics/
 │   ├── 01-backend-friendly-languages/
