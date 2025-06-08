@@ -120,4 +120,7 @@ If you found this helpful, feel free to reach out or connect professionally:
 
 ---
 
+`backend developer`, `backend roadmap`, `REST API`, `Express.js`, `Node.js`, `GitHub learning path`, `backend developer for beginners`, `MVC`, `ORM`, `Postman`, `version control`, `session management`, `API design`, `CRUD operations`, `database joins`, `server-side frameworks`, `routing`, `middleware`, `pagination`, `authentication`, `API documentation`
+
+---
 
