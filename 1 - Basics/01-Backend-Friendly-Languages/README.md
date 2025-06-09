@@ -52,7 +52,6 @@ They handle tasks such as:
 ---
 
 ## ✍️ Core Languages Used in Backend Development
-</br> 
 
 ## _01. Node.Js_
 <p align="center">
@@ -84,5 +83,34 @@ Node.js is a popular backend language based on JavaScript. It is known for being
   - Systems using Microsoft’s architecture or modular development strategies
 
 ---
+</br>
+
+## _02. Python_
+   
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b86f3c6-8ece-4ec1-8d21-ca3f88a7afc0" alt="Python Logo" style="width:400px;" />
+</p>
+
+
+Python is a powerful and beginner-friendly backend language known for its simple syntax and high readability. It helps developers write clean and maintainable code, making team collaboration more effective.
+
+🔵 **Key Uses:**
+
+  - Widely used in backend web development (e.g., Django, Flask)
+  - Supports rapid development with clean and concise code
+  - Great for data-intensive apps and APIs
+
+🔵 **Why It’s Powerful:**
+
+  - Easy-to-read syntax that improves code understanding and communication among developers
+  - Large ecosystem of libraries and frameworks for backend, data science, automation, and more
+  - Excellent for quick prototyping and production-ready deployments
+
+🔵 **Best Fit For:**
+
+  - Backend APIs and web apps (Django/Flask)
+  - Machine learning and data-heavy services
+  - Teams that value clean and readable code
+  - Startups or projects requiring rapid development cycles
 
 
