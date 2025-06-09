@@ -208,7 +208,7 @@ PHP is a widely-used, open-source backend programming language especially suited
   - Developers focused on rapid web application development
 
 ---
-
+</br>
 
 ## ✍️ Final Thoughts
 
