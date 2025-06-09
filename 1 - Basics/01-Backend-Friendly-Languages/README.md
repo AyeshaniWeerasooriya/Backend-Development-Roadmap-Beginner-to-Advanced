@@ -215,11 +215,11 @@ PHP is a widely-used, open-source backend programming language especially suited
 The backend serves as the **invisible engine** behind modern applications, driving everything from data management to secure communication and complex business logic. Selecting the right **backend-friendly language** lays the foundation for building robust, scalable, and efficient systems.
 
 Each language introduced in this chapter brings its own strengths:
-- 🟢 Node.js – Ideal for real-time, event-driven applications
-- 🟡 Python – Known for clean syntax and rapid development
-- 🔴 Java – Preferred for enterprise-grade, cross-platform solutions
-- 🟣 Kotlin – A modern choice for Android and JVM-based backends
-- 🔵 PHP – Suited for dynamic websites and CMS-driven platforms
+- Node.js – Ideal for real-time, event-driven applications
+- Python – Known for clean syntax and rapid development
+- Java – Preferred for enterprise-grade, cross-platform solutions
+- Kotlin – A modern choice for Android and JVM-based backends
+- PHP – Suited for dynamic websites and CMS-driven platforms
   
 ---
 </br>
