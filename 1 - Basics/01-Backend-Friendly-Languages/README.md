@@ -83,7 +83,7 @@ Node.js is a popular backend language based on JavaScript. It is known for being
   - Systems using Microsoft’s architecture or modular development strategies
 
 ---
-</br>
+
 
 ## _02. Python_
    
@@ -114,7 +114,7 @@ Python is a powerful and beginner-friendly backend language known for its simple
   - Startups or projects requiring rapid development cycles
     
 ---
-</br>
+
 
 ## _03. Java_
    
@@ -145,7 +145,7 @@ Java is a powerful, object-oriented backend programming language widely used to 
   - Scalable systems requiring strong performance and security
 
 ---
-</br>
+
 
 ## _04. Kotlin_
 
@@ -177,7 +177,7 @@ Kotlin is a modern, concise backend programming language that runs on the **Java
   - Developers looking for a modern language with seamless Java integration
 
 ---
-</br>
+
 
 ## _05. PHP_
 
@@ -208,7 +208,7 @@ PHP is a widely-used, open-source backend programming language especially suited
   - Developers focused on rapid web application development
 
 ---
-</br>
+
 
 ## ✍️ Final Thoughts
 
