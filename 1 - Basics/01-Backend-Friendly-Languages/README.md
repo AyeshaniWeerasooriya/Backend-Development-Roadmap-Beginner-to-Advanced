@@ -144,6 +144,38 @@ Java is a powerful, object-oriented backend programming language widely used to 
   - Android app development
   - Scalable systems requiring strong performance and security
 
+---
+</br>
+
+## _04. Kotlin_
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb37f851-7cc9-407b-9bcb-e529622663a6" alt="Kotlin Logo" style="width:450px;" />
+</p>
+
+Kotlin is a modern, concise backend programming language that runs on the **Java Virtual Machine (JVM)**. It is officially supported by Google and highly recommended for Android development due to its simplicity and expressive syntax.
+
+🟣 **Key Uses:**
+
+  - Android app development with official Google support
+  - Backend development on JVM platforms
+  - Building cross-platform applications with Kotlin Multiplatform
+
+🟣 **Why It’s Powerful:**
+
+  - Less complex and more concise than Java, reducing boilerplate code
+  - Fully interoperable with Java, allowing gradual migration or mixed projects
+  - Officially supported by Google as the preferred language for Android development
+  - Modern features like null safety, extension functions, and coroutines for asynchronous programming
+
+🟣 **Best Fit For:**
+
+  - Android mobile app development
+  - JVM backend services and microservices
+  - Projects aiming for cleaner, more maintainable code compared to Java
+  - Developers looking for a modern language with seamless Java integration
+
 
   
 
