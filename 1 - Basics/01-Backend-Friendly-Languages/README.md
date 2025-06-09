@@ -41,7 +41,7 @@ Together, these work behind the scenes to power everything a user does on the fr
 
 ## ✍️ What are Backend Friendly Languages 
 
-Backend-friendly languages are programming languages designed or well-suited for building the server-side logic of web applications. 
+Backend-friendly languages are programming languages designed or well-suited for building the server-side logic of websites or applications. 
 
 They handle tasks such as:
 - Processing business logic
@@ -51,10 +51,37 @@ They handle tasks such as:
 
 ---
 
-## ✍️  
+## ✍️ Core Languages Used in Backend Development
+</br> 
+
+## _01. Node.Js_
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/863d759b-f175-4fde-8e98-a2d4ad1b45b1" alt="images" />
+</p>
+
+Node.js is a popular backend language based on JavaScript. It is known for being lightweight, fast, and ideal for building scalable web applications.
 
 
+🟢 **Key Uses:**
 
+  - Perfect for creating high-performance web applications.
+  - Widely used in real-time apps like chat apps or video streaming platforms (e.g., Netflix).
+  - Great for developing content-rich websites. 
+
+
+🟢 **Why It’s Powerful:**
+  
+  - Lightweight and efficient, thanks to its non-blocking, event-driven architecture
+  - Ideal for microservice-based architectures, allowing developers to divide an app into smaller, manageable modules
+  - Promotes flexibility and scalability, especially in large-scale applications
+
+    
+🟢 **Best Fit For:**
+
+  - Cloud-based solutions
+  - Real-time apps
+  - Streaming services
+  - Systems using Microsoft’s architecture or modular development strategies
 
 ---
 
