@@ -30,3 +30,12 @@ git pull: Downloads updates from a remote repository.
 git status: Shows the status of changes in the working directory.
 
 git log: Shows the commit history.
+
+@@ Why Use Git?
+Tracks your coding history
+
+Supports collaboration and teamwork
+
+Helps manage multiple versions and experiments
+
+Widely supported by hosting platforms and development tools
