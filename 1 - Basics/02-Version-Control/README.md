@@ -12,3 +12,21 @@ Distributed System: Every developer has a complete copy of the code repository, 
 Branching & Merging: Allows you to work on new features or bug fixes in isolated branches, and then merge them into the main codebase when ready.
 
 Collaboration: Supports team collaboration through platforms like GitHub, GitLab, and Bitbucket.
+
+
+##  Common Git Commands:
+git init: Initializes a new Git repository.
+
+git clone: Makes a copy of a remote repository.
+
+git add: Stages changes to be committed.
+
+git commit: Saves changes to the local repository.
+
+git push: Uploads local commits to a remote repository.
+
+git pull: Downloads updates from a remote repository.
+
+git status: Shows the status of changes in the working directory.
+
+git log: Shows the commit history.
