@@ -81,7 +81,7 @@ backend-beginner-to-advance/
 ## 🔍 How to Use This Repository
 
 - Navigate to any folder by topic
-- Click the `README.md` link to read the tutorial and concept
+- Click the `click here` link to read the tutorial and concept
 - Review code snippets, expand on them, or build your own project
 - Use it as a backend learning guide or teaching reference
 
