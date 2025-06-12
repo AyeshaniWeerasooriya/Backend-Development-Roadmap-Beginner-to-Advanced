@@ -56,3 +56,24 @@ Often used in game development, digital media, and large codebases.
 
 Centralized and powerful, with strong support for binary files.
 
+🔧 5. Bazaar (bzr)
+A distributed version control system developed by Canonical (makers of Ubuntu).
+
+Easy to learn and good for small to medium-sized projects.
+
+Not widely used today but still recognized in some circles.
+
+🔧 6. CVS (Concurrent Versions System)
+One of the oldest version control systems.
+
+Centralized, and mostly replaced by modern tools like Git or SVN.
+
+Still used in some legacy projects but generally considered outdated.
+
+🔧 7. Fossil
+A distributed version control system with an integrated web interface.
+
+Includes bug tracking, a wiki, and a web UI by default.
+
+Created by the same developer who made SQLite.
+
