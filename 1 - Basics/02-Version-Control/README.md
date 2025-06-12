@@ -21,3 +21,38 @@ Each file holds a slightly different version of the same project. Over time, it 
 
 ---
 ## ✍️ What is Version Control 
+
+
+✍️ What Are the Version Control Systems Available?
+Version Control Systems (VCS) come in many forms, each designed to help manage and track changes in software projects. Here are some of the most popular and widely used version control systems:
+
+🔧 1. Git
+The most popular and widely used distributed version control system.
+
+Developed by Linus Torvalds (creator of Linux).
+
+Used with platforms like GitHub, GitLab, and Bitbucket.
+
+Supports offline work, powerful branching, and collaboration.
+
+🔧 2. Subversion (SVN)
+A centralized version control system developed by the Apache Software Foundation.
+
+Simple to use and good for teams that prefer centralized control.
+
+Often used in enterprise or legacy systems.
+
+🔧 3. Mercurial
+A distributed version control system like Git.
+
+Known for simplicity and performance.
+
+Less popular than Git but still used in some open-source and enterprise projects.
+
+🔧 4. Perforce (Helix Core)
+A high-performance VCS designed for large-scale enterprise projects.
+
+Often used in game development, digital media, and large codebases.
+
+Centralized and powerful, with strong support for binary files.
+
