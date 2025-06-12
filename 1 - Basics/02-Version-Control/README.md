@@ -77,3 +77,45 @@ Includes bug tracking, a wiki, and a web UI by default.
 
 Created by the same developer who made SQLite.
 
+🗂️ 1. Centralized Version Control System (CVCS)
+In centralized systems, all the code and version history are stored in a central server. Developers pull code from this server and push changes back to it.
+
+📌 Key Characteristics:
+
+A single central repository
+
+All changes are tracked on the central server
+
+Requires internet access to commit or update code
+
+If the server goes down, version history can be lost or access is blocked
+
+🔧 Examples:
+
+Subversion (SVN)
+
+Perforce
+
+🌐 2. Distributed Version Control System (DVCS)
+In distributed systems, every developer has a full copy of the codebase and its entire history on their local machine. Changes can be made offline and later synchronized with others.
+
+📌 Key Characteristics:
+
+Each developer works with a local repository
+
+Changes can be committed locally and then pushed to a shared server
+
+Faster, safer, and more flexible for collaboration
+
+Supports branching, merging, and undoing with ease
+
+🔧 Examples:
+
+Git ⭐ (Most widely used today)
+
+Mercurial
+
+Bazaar
+
+
+
