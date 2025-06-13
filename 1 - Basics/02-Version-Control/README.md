@@ -41,9 +41,15 @@ Perforce is a centralized version control system designed for large-scale teams 
 ---
 ## ✍️ Why Git Stands Out Among Other Version Control Systems 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48ae619a-8a40-48d7-9b7a-ce85439543a3" alt="Git" style="width:350px;" />
+</p>
+
+
 - Git became the most popular version control system for a reason, it changed the way teams manage and collaborate on code. 
 - Unlike older systems that saved changes in one central place, Git works in a distributed way. This means every contributor has their own full copy of the project history, allowing them to work independently, even without internet. 
 - Git is also incredibly fast, handles large projects with ease, and makes branching and merging simple. Creating a new branch to try out a new feature or fix a bug takes just seconds, and switching between ideas feels seamless. 
 - Git has strong support from tools like GitHub, GitLab, and Bitbucket, making it even more powerful for team collaboration, open-source projects, and professional software development. 
+
 
 
