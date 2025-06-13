@@ -60,6 +60,7 @@ Perforce is a centralized version control system designed for large-scale teams 
 
 Git has a unique way of managing code. It doesn’t just store code in a single place. Instead, code moves between four key locations:
 
+
 1. Working Directory – This is where active development happens. It's the playground where files are created, edited, and deleted.
 
 2. Staging Area – Also called the index. Changes are added here using `git add`. It’s like preparing files for a snapshot.
@@ -68,21 +69,22 @@ Git has a unique way of managing code. It doesn’t just store code in a single 
 
 4. Remote Repository – This is a shared location like GitHub, where code is pushed using `git push` for backup and team collaboration.
 
+
 When cloning a project using `git clone`, a full copy is made locally, including history. Then development begins in the working directory. Changes are staged with `git add`, committed with `git commit`, and shared using `git push`.
 
 ---
 
 ## ✍️ Collaborating with Git
 
-- Git enables two-way collaboration. To get updates from others, `git pull` is used. This command fetches changes from the remote repository and merges them into the local one. Simply, 
+Git enables two-way collaboration. To get updates from others, `git pull` is used. This command fetches changes from the remote repository and merges them into the local one. Simply, 
+        
+  - `git fetch` gets the latest commits from the remote but doesn’t apply them.
+        
+  - `git merge` applies those commits to the current branch.
+        
+  - `git pull` does both in one step.
 
-`git fetch` gets the latest commits from the remote but doesn’t apply them.
-
-`git merge` applies those commits to the current branch.
-
-`git pull` does both in one step.
-
-- Switching between tasks or features often means switching branches. This is done using `git checkout` or `git switch`. Branching in Git allows for separate lines of development without affecting the main codebase.
+Switching between tasks or features often means switching branches. This is done using `git checkout` or `git switch`. Branching in Git allows for separate lines of development without affecting the main codebase.
 
 
 
