@@ -20,102 +20,22 @@ Each file holds a slightly different version of the same project. Over time, it 
 **Version control** solves this by storing every change in one organized system, showing what changed, when it changed, and who made the change.
 
 ---
-## ✍️ What is Version Control 
+## ✍️ Commonly Used Version Control Systems
 
+🟢 _**Git**_
 
-✍️ What Are the Version Control Systems Available?
-Version Control Systems (VCS) come in many forms, each designed to help manage and track changes in software projects. Here are some of the most popular and widely used version control systems:
+Git is a distributed version control system widely used in the software industry. It allows developers to work on code independently and merge changes later without overwriting others' work. Git is fast, supports powerful branching, and integrates with platforms like GitHub, GitLab, and Bitbucket for collaboration.
 
-🔧 1. Git
-The most popular and widely used distributed version control system.
+🟢 _**Subversion (SVN)**_
 
-Developed by Linus Torvalds (creator of Linux).
+SVN is a centralized version control system, meaning the code is stored in one central place. It's simpler to manage for small teams and works well when everyone connects to the same main repository. SVN is still used in some enterprises and legacy systems.
 
-Used with platforms like GitHub, GitLab, and Bitbucket.
+🟢 _**Mercurial**_
 
-Supports offline work, powerful branching, and collaboration.
+Mercurial is another distributed version control system similar to Git. It's known for its simplicity, performance, and clean user interface. Although not as popular as Git, it's still used in projects that value speed and simplicity.
 
-🔧 2. Subversion (SVN)
-A centralized version control system developed by the Apache Software Foundation.
+🟢 _**Perforce (Helix Core)**_
 
-Simple to use and good for teams that prefer centralized control.
-
-Often used in enterprise or legacy systems.
-
-🔧 3. Mercurial
-A distributed version control system like Git.
-
-Known for simplicity and performance.
-
-Less popular than Git but still used in some open-source and enterprise projects.
-
-🔧 4. Perforce (Helix Core)
-A high-performance VCS designed for large-scale enterprise projects.
-
-Often used in game development, digital media, and large codebases.
-
-Centralized and powerful, with strong support for binary files.
-
-🔧 5. Bazaar (bzr)
-A distributed version control system developed by Canonical (makers of Ubuntu).
-
-Easy to learn and good for small to medium-sized projects.
-
-Not widely used today but still recognized in some circles.
-
-🔧 6. CVS (Concurrent Versions System)
-One of the oldest version control systems.
-
-Centralized, and mostly replaced by modern tools like Git or SVN.
-
-Still used in some legacy projects but generally considered outdated.
-
-🔧 7. Fossil
-A distributed version control system with an integrated web interface.
-
-Includes bug tracking, a wiki, and a web UI by default.
-
-Created by the same developer who made SQLite.
-
-🗂️ 1. Centralized Version Control System (CVCS)
-In centralized systems, all the code and version history are stored in a central server. Developers pull code from this server and push changes back to it.
-
-📌 Key Characteristics:
-
-A single central repository
-
-All changes are tracked on the central server
-
-Requires internet access to commit or update code
-
-If the server goes down, version history can be lost or access is blocked
-
-🔧 Examples:
-
-Subversion (SVN)
-
-Perforce
-
-🌐 2. Distributed Version Control System (DVCS)
-In distributed systems, every developer has a full copy of the codebase and its entire history on their local machine. Changes can be made offline and later synchronized with others.
-
-📌 Key Characteristics:
-
-Each developer works with a local repository
-
-Changes can be committed locally and then pushed to a shared server
-
-Faster, safer, and more flexible for collaboration
-
-Supports branching, merging, and undoing with ease
-
-🔧 Examples:
-
-Git ⭐ (Most widely used today)
-
-Mercurial
-
-Bazaar
-
+Perforce is a centralized version control system designed for large-scale teams and big codebases. It's commonly used in industries like gaming and multimedia where performance and handling large files are important.
 
 
