@@ -61,13 +61,13 @@ Perforce is a centralized version control system designed for large-scale teams 
 Git has a unique way of managing code. It doesn’t just store code in a single place. Instead, code moves between four key locations:
 
 
-**1. Working Directory** – This is where active development happens. It's the playground where files are created, edited, and deleted.
-
-**2. Staging Area** – Also called the index. Changes are added here using `git add`. It’s like preparing files for a snapshot.
-
-**3. Local Repository** – Once changes are committed using `git commit`, they are saved locally in this repository, along with a history of past versions.
-
-**4. Remote Repository** – This is a shared location like GitHub, where code is pushed using `git push` for backup and team collaboration.
+  **1. Working Directory** – This is where active development happens. It's the playground where files are created, edited, and deleted.
+  
+  **2. Staging Area** – Also called the index. Changes are added here using `git add`. It’s like preparing files for a snapshot.
+  
+  **3. Local Repository** – Once changes are committed using `git commit`, they are saved locally in this repository, along with a history of past versions.
+  
+  **4. Remote Repository** – This is a shared location like GitHub, where code is pushed using `git push` for backup and team collaboration.
 
 
 When cloning a project using `git clone`, a full copy is made locally, including history. Then development begins in the working directory. Changes are staged with `git add`, committed with `git commit`, and shared using `git push`.
