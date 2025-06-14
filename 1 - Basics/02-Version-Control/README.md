@@ -72,9 +72,15 @@ Git has a unique way of managing code. It doesn’t just store code in a single 
 
 When cloning a project using `git clone`, a full copy is made locally, including history. Then development begins in the working directory. Changes are staged with `git add`, committed with `git commit`, and shared using `git push`.
 
+</br>
+
+_**Basic Git Workflow Diagram**_
+</br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a7287639-9e7d-47e8-a25e-075cca2df693" alt="Git" style="width:500px;" />
 </p>
+
+</br>
 
 ---
 
