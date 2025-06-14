@@ -154,6 +154,7 @@ These tools help beginners manage commits, branches, and merges visually.
 Git is more than just a tool.It’s the backbone of modern development. Learning how to work with branches, stage changes, and collaborate with others builds confidence and enables powerful teamwork. With Git, developers can manage complex projects, keep clean histories, and never fear losing progress.
 
 ---
+</br>
 
 **Up Next:** HTTP/ HTTPS Requests
 
