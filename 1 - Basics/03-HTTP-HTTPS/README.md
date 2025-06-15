@@ -14,3 +14,13 @@ Your browser sends an HTTP request to the server asking for the page.
 
 The server sends back an HTTP response with the content (like HTML, images, text).
 
+
+
+📦 What an HTTP Request Contains:
+URL – The web address you want to access
+
+Method – Such as GET, POST, PUT, or DELETE
+
+Headers – Extra info like browser type, content type, etc.
+
+Body (optional) – Only in some methods like POST (contains data to send)
