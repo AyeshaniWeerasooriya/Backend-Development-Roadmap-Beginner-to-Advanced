@@ -24,3 +24,12 @@ Method – Such as GET, POST, PUT, or DELETE
 Headers – Extra info like browser type, content type, etc.
 
 Body (optional) – Only in some methods like POST (contains data to send)
+
+
+⚠️ Important:
+HTTP is not secure.
+
+Data sent through HTTP is not encrypted.
+
+Anyone can intercept or modify the data (like passwords or personal info).
+
