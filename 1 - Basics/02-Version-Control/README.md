@@ -77,7 +77,7 @@ When cloning a project using `git clone`, a full copy is made locally, including
 _**Basic Git Workflow Diagram**_
 </br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a7287639-9e7d-47e8-a25e-075cca2df693" alt="Git" style="width:500px;" />
+  <img src="https://github.com/user-attachments/assets/496319cf-875c-439d-a625-9c71e6777a71" alt="Git" style="width:600px;" />
 </p>
 
 </br>
