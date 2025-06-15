@@ -33,3 +33,10 @@ Data sent through HTTP is not encrypted.
 
 Anyone can intercept or modify the data (like passwords or personal info).
 
+
+
+✅ That's Why HTTPS Exists:
+HTTPS = HTTP + Security (using SSL/TLS encryption)
+
+
+
