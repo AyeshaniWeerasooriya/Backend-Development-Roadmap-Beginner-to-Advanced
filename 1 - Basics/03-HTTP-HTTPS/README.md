@@ -10,6 +10,28 @@ HTTPS stands for **HyperText Transfer Protocol Secure**
 
 - It performs the same role as HTTP but adds a layer of security through SSL/TLS encryption, protecting sensitive data from being read or altered during transmission.
 
+This HTTP/HTTPS like a waiter in a Restaurant.
+
+A browser places an order (request), the waiter (HTTP) delivers it to the kitchen (server), and brings the meal (webpage) back to the table (browser)
+
+---
+# ✍️ Role of TCP
+
+TCP stands for **Transmission Control Protocol**. 
+- It's the reliable transport layer between browser and the server.
+- TCP ensures that all parts of the communication are delivered safely, in the correct order, and without corruption. 
+- TCP handles the mechanics of sending data:
+  
+   🔸 Breaks data into smaller packets
+
+   🔸 Sends them individually
+
+   🔸 Reassembles them correctly at the destination
+
+   🔸 Detects and resends lost or corrupted packets
+
+It’s like mailing pages of a book in separate envelopes. TCP ensures all the pages arrive, are in the right order, and nothing is missing.
+
 ---
 
 ## ✍️ How HTTP Works
@@ -70,20 +92,35 @@ Imagine visiting a website like `www.udemy.com`. On the surface, it looks like a
    The browser receives the response and renders the content for viewing.
 
 ---
+
+## ✍️ HTTP Methods – Types of Requests
+
+Different HTTP methods serve different purposes when interacting with a server:
+
+
+<table>
+  <tr>
+    <td align="center"><b>Method</b></td>
+    <td  align="center"><b>Description</b></td>
+  </tr>
+    <tr>
+    <td>GET</td>
+    <td>Request to retrieve a resource</td>
+  </tr>
+    <tr>
+    <td>POST</td>
+    <td>Request to create a new resource</td>
+  </tr>
+    <tr>
+    <td>PUT</td>
+    <td>Request to update or replace a resource</td>
+  </tr>
+    <tr>
+    <td>DELETE</td>
+    <td>Request to remove a resource</td>
+  </tr>
+</table>
+
+
+These methods are the building blocks of client-server communication on the web.
   
-# ✍️ Role of TCP
-
-TCP stands for **Transmission Control Protocol**. 
-- It's the reliable transport layer between browser and the server.
-- TCP ensures that all parts of the communication are delivered safely, in the correct order, and without corruption. 
-- TCP handles the mechanics of sending data:
-  
-   🔸 Breaks data into smaller packets
-
-   🔸 Sends them individually
-
-   🔸 Reassembles them correctly at the destination
-
-   🔸 Detects and resends lost or corrupted packets
-
-It’s like mailing pages of a book in separate envelopes. TCP ensures all the pages arrive, are in the right order, and nothing is missing.
