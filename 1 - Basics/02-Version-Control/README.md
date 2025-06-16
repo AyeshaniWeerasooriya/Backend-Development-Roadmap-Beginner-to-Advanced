@@ -1,4 +1,4 @@
-#  🚀 Version Control with Git & GitHub
+#  🚀 02 - Version Control with Git & GitHub
 
 ## ✍️ What is Version Control 
 
