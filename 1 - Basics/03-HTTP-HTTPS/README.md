@@ -1,6 +1,6 @@
 # 🚀 HTTP & HTTPS Requests
 
-## ✍️ What is HTTP and HTTPS
+## ✍️ What is HTTP & HTTPS
 
 HTTP stands for **HyperText Transfer Protocol**
 
@@ -15,7 +15,23 @@ This HTTP/HTTPS like a waiter in a Restaurant.
 A browser places an order (request), the waiter (HTTP) delivers it to the kitchen (server), and brings the meal (webpage) back to the table (browser)
 
 ---
-# ✍️ Role of TCP
+
+
+## ✍️ Importance of HTTPS
+
+HTTPS is more than just a secure version of HTTP. It provides essential benefits like,
+
+- Encrypts data to protect personal information like passwords and card details.
+  
+- Prevents attackers from tampering with data during transmission.
+     
+- Verifies website identity, helping users avoid fake or malicious sites.
+ 
+- Automatically used by modern browsers when visiting known secure websites.
+   
+---
+
+## ✍️ Role of TCP
 
 TCP stands for **Transmission Control Protocol**. 
 - It's the reliable transport layer between browser and the server.
@@ -34,7 +50,7 @@ It’s like mailing pages of a book in separate envelopes. TCP ensures all the p
 
 ---
 
-## ✍️ How HTTP Works
+## ✍️ How HTTP/HTTPS Works
 
 Imagine visiting a website like `www.udemy.com`. On the surface, it looks like a simple action. But in behind, several important steps are happening.
 
@@ -95,8 +111,9 @@ Imagine visiting a website like `www.udemy.com`. On the surface, it looks like a
 
 ## ✍️ HTTP Methods – Types of Requests
 
-Different HTTP methods serve different purposes when interacting with a server:
+Different HTTP methods serve different purposes when interacting with a server.
 
+</br>
 
 <table>
   <tr>
@@ -121,6 +138,27 @@ Different HTTP methods serve different purposes when interacting with a server:
   </tr>
 </table>
 
+</br>
 
 These methods are the building blocks of client-server communication on the web.
   
+---
+
+## ✍️ Final Thoughts
+
+- HTTP is the core language that enables web browsers and servers to communicate.
+- TCP ensures that this conversation is delivered accurately and safely.
+- HTTPS adds a much-needed layer of trust and security, making the web safer for users and developers alike.
+- HTTP methods like GET, POST, PUT, and DELETE define the actions a client can request from a server. They form the foundation for web interactions, from viewing a page to submitting data and updating content and it's making them essential tools in every backend developer’s toolkit.
+
+---
+</br>
+
+**UP NEXT**: Requests & Responses
+
+
+
+
+
+
+
