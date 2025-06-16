@@ -55,6 +55,7 @@ TCP stands for **Transmission Control Protocol**.
    🔸 Reassembles them correctly at the destination
 
    🔸 Detects and resends lost or corrupted packets
+</br>
 
 _It’s like mailing pages of a book in separate envelopes. TCP ensures all the pages arrive, are in the right order, and nothing is missing._
 
