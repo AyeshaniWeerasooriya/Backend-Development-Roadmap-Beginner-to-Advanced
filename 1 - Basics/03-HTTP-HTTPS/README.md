@@ -59,7 +59,7 @@ TCP stands for **Transmission Control Protocol**.
 It’s like mailing pages of a book in separate envelopes. TCP ensures all the pages arrive, are in the right order, and nothing is missing.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2c47871f-99e8-4b5f-b1d9-14ff53074fc1" alt="TCP as a mailing process" style="width:50%;" />
+  <img src="https://github.com/user-attachments/assets/2c47871f-99e8-4b5f-b1d9-14ff53074fc1" alt="TCP as a mailing process" style="width:60%;" />
 </p>
 
 
