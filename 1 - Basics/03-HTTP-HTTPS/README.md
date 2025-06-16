@@ -10,9 +10,19 @@ HTTPS stands for **HyperText Transfer Protocol Secure**
 
 - It performs the same role as HTTP but adds a layer of security through SSL/TLS encryption, protecting sensitive data from being read or altered during transmission.
 
-This HTTP/HTTPS like a waiter in a Restaurant.
+---
 
-A browser places an order (request), the waiter (HTTP) delivers it to the kitchen (server), and brings the meal (webpage) back to the table (browser)
+### **HTTP/ HTTPS like a waiter in a Restaurant.**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c927c3a-9458-476a-bc81-29223379d948" alt="HTTP as a waiter" style="width:60%;" />
+</p>
+
+At a restaurant, the customer sits at the table and places an order. The waiter receives the order and takes it to the kitchen. In the kitchen, the chef carefully prepares the requested meal. Once it's ready, the waiter picks it up and returns to the table with the finished dish.
+
+On the web, the process is quite similar. A browser sends a request, much like placing an order. **The protocol, acting as the waiter → whether HTTP or HTTPS, carries that request to the server**, which works like the kitchen. The server processes the request and prepares the appropriate content. Then, **the protocol brings the final result → the webpage back to the browser** and ready to be displayed.
+
+
 
 ---
 
