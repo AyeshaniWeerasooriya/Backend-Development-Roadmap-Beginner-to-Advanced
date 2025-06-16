@@ -67,7 +67,7 @@ _It’s like mailing pages of a book in separate envelopes. TCP ensures all the 
 
 ---
 
-## ✍️ How HTTP/HTTPS Works
+## ✍️ How HTTP/HTTPS Actually Works
 
 Imagine visiting a website like `www.udemy.com`. On the surface, it looks like a simple action. But in behind, several important steps are happening.
 
