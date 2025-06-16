@@ -114,7 +114,7 @@ Imagine visiting a website like `www.udemy.com`. On the surface, it looks like a
 
    </br>
    
-### 7.Rendering the Webpage
+### 7. Rendering the Webpage
    The browser receives the response and renders the content for viewing.
 
 ---
