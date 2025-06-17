@@ -51,3 +51,27 @@ Content-Type: application/json
   "username": "john",
   "password": "12345"
 }
+
+
+
+✍️ What is an HTTP Response?
+Structure of a response:
+
+Status line (HTTP/1.1 200 OK)
+
+Headers (Content-Type: text/html)
+
+Body (HTML, JSON, etc.)
+
+Example:
+
+http
+Copy
+Edit
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "message": "Login successful",
+  "userId": "abc123"
+}
