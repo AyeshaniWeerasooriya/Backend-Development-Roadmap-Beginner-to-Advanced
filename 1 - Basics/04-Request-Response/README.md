@@ -76,6 +76,7 @@ Content-Type: application/json
   "userId": "abc123"
 }
 
+![pngtree-document-approved-request-icon-png-image_4759169](https://github.com/user-attachments/assets/e243771d-e77b-4e3d-a71e-26bc7c2fa17a)
 
 
 
