@@ -63,18 +63,6 @@ Headers (Content-Type: text/html)
 
 Body (HTML, JSON, etc.)
 
-Example:
-
-http
-Copy
-Edit
-HTTP/1.1 200 OK
-Content-Type: application/json
-
-{
-  "message": "Login successful",
-  "userId": "abc123"
-}
 
 ![pngtree-document-approved-request-icon-png-image_4759169](https://github.com/user-attachments/assets/e243771d-e77b-4e3d-a71e-26bc7c2fa17a)
 
@@ -88,3 +76,14 @@ Content-Type: application/json
 500 Internal Server Error – something broke on the server
 
 401 Unauthorized, 403 Forbidden, etc.
+
+
+example :
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "message": "Login successful",
+  "userId": "abc123"
+}
+
