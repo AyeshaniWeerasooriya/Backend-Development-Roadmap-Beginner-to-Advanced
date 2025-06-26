@@ -111,7 +111,42 @@ This response uses HTTP/1.1 to inform the client that the login was successful (
 
 
 
+---
 
+## ✍️ Request & Response Headers
+
+Headers are key-value pairs that carry **metadata** about the request or response. They’re invisible to users but crucial for functionality.
+
+### ✅ Request Headers
+
+| Header            | Purpose                                               |
+|------------------|--------------------------------------------------------|
+| `User-Agent`      | Identifies the browser or device                      |
+| `Accept`          | Expected content type (`application/json`, `text/html`) |
+| `Authorization`   | Credentials like tokens or API keys                   |
+| `Content-Type`    | Format of request body (`application/json`, etc.)     |
+
+
+<br>
+
+
+### ✅ Response Headers
+
+| Header                   | Purpose                                           |
+|--------------------------|--------------------------------------------------|
+| `Content-Type`           | Format of the returned data                      |
+| `Set-Cookie`             | Stores small data in the browser                 |
+| `Cache-Control`          | Controls how browser should cache the response   |
+| `Access-Control-Allow-Origin` | Controls cross-origin access (CORS)       |
+
+---
+
+## ✍️ Why Headers Matter
+
+- They enable security, formatting, and proper communication.
+- Without headers, much of the web wouldn’t function correctly.
+
+---
 
 
 
