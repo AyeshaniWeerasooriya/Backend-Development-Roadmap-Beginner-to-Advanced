@@ -40,6 +40,11 @@ HTTPS is more than just a secure version of HTTP. It provides essential benefits
 - Automatically used by modern browsers when visiting known secure websites.
    
 ---
+## ✍️ How HTTP/HTTPS Messages Travel
+
+While HTTP and HTTPS define the rules for how messages are written and understood between a browser and a server, they don’t handle how the actual messages are delivered across the internet. That job is done by another protocol — **TCP (Transmission Control Protocol)**. Just like a waiter needs reliable roads to reach the kitchen and come back, HTTP/HTTPS need a reliable transport system, and that’s where TCP comes in. It ensures that the data packets travel smoothly, in the right order, and arrive safely.
+
+---
 
 ## ✍️ Role of TCP
 
@@ -68,7 +73,7 @@ _It’s like mailing pages of a book in separate envelopes. TCP ensures all the 
 
 ---
 
-## ✍️ How HTTP/HTTPS Actually Works
+## ✍️ Real-Life Example: How HTTP/HTTPS Work Behind the Scenes
 
 Imagine visiting a website like `www.udemy.com`. On the surface, it looks like a simple action. But in behind, several important steps are happening.
 
