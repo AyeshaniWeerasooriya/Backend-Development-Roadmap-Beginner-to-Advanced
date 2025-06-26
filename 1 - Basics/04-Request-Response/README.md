@@ -11,7 +11,7 @@ This cycle is the **foundation of backend communication** on the web.
 
 ---
 
-## Ordering in a Restaurant
+### Ordering a meal in a Restaurant
 
 Imagine we're at a restaurant:
 
@@ -19,20 +19,45 @@ Imagine we're at a restaurant:
 - The waiter (like the **HTTP/HTTPS protocol**) delivers it to the kitchen (the **server**).
 - The kitchen prepares the dish and sends it back via the waiter (a **response**).
 
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/f07a852d-fdf8-4709-8f42-466663c5e8e7" alt="HTTP as a waiter" style="width:60%;" />
+</p>
 
 
 ---
 
-## 📨 The Request – What the Client Sends
+## ✍️ The Request – What the Client Sends
 
-A typical HTTP request contains:
+A typical HTTP **request** contains below things.
 
-| Part        | Description                                                 |
-|-------------|-------------------------------------------------------------|
-| **Method**  | The action being requested (`GET`, `POST`, `PUT`, `DELETE`) |
-| **URL**     | The resource being requested (e.g., `/login`, `/products`)  |
-| **Headers** | Extra info like content type, auth tokens, etc.             |
-| **Body**    | Data sent with the request (used with `POST`, `PUT`)        |
+</br>
+
+<table>
+  <tr>
+    <td align="center"><b>Part</b></td>
+    <td  align="center"><b>Description</b></td>
+  </tr>
+    <tr>
+    <td>Method</td>
+    <td>
+      The action being requested ( GET, POST, PUT, DELETE ) 
+    </td>
+  </tr>
+    <tr>
+    <td>URL / Path</td>
+    <td>The resource being requested (e.g., /login, /products)</td>
+  </tr>
+    <tr>
+    <td>Headers</td>
+    <td>Extra information like content type, authorization tokens, etc.</td>
+  </tr>
+    <tr>
+    <td>Body</td>
+    <td>The data sent with the request (used with POST, PUT)</td>
+  </tr>
+</table>
+
+</br>
 
 ### 🧪 Example of a POST Request
 
