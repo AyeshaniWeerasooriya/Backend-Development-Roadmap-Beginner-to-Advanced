@@ -61,9 +61,47 @@ A typical HTTP **request** contains below things.
 
 ###  Example 
 
+This request sends a user's login credentials (`username` and `password`) to the server at the `/login` path using the HTTP/1.1 protocol, asking the server to authenticate the user.
+
 <p align="left">
   <img src="https://github.com/user-attachments/assets/ef932f8b-2172-418a-be0f-d24f19eaf17b" alt="HTTP as a waiter" style="width:60%;" />
 </p>
+
+
+
+---
+
+## ✍️ The Response – What the Server Sends Back
+
+The server responds with a structured message.
+
+</br>
+
+<table>
+  <tr>
+    <td align="center"><b>Part</b></td>
+    <td  align="center"><b>Description</b></td>
+  </tr>
+    <tr>
+    <td>Status Line</td>
+    <td>
+      Includes the HTTP version and status code
+    </td>
+  </tr>
+    <tr>
+    <td>Headers</td>
+    <td>Metadata about the response</td>
+  </tr>
+    <tr>
+    <td>Body</td>
+    <td>The actual data/content being returned (HTML, JSON)</td>
+  </tr>
+</table>
+
+</br>
+
+
+### 🧪 Example of a JSON Response
 
 
 
