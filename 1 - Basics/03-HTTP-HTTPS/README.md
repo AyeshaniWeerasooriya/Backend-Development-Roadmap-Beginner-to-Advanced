@@ -171,6 +171,8 @@ These methods are the building blocks of client-server communication on the web.
 
 While HTTP and HTTPS are the most widely used protocols for web communication, they are not the only ones. Different protocols serve specialized purposes, each with its own way of sending requests and exchanging data:
 
+<br>
+
   🔸 **FTP - File Transfer Protocol**
 
   Used for transferring files between computers over a network. FTP commands include:
@@ -181,21 +183,25 @@ While HTTP and HTTPS are the most widely used protocols for web communication, t
    
    `PUT`  - to upload files
    
+<br>
 
   🔸 **SMTP  - Simple Mail Transfer Protocol**
   
   The protocol responsible for sending emails. It defines how mail clients send messages to mail servers.
   
+<br>
   
   🔸 **WebSocket**
   
   Unlike HTTP’s request-response model, WebSocket enables full-duplex, real-time, two-way communication over a single persistent connection. It’s often used for live chat apps, gaming, and other interactive services.
   
-  
+ <br>
+ 
   🔸 **gRPC**
 
   A modern, high-performance Remote Procedure Call (RPC) framework that uses HTTP/2 as its transport layer. It allows clients to invoke methods on servers as if they were local functions, making communication more efficient.
-  
+
+  <br>
 
   🔸 **MQTT - Message Queuing Telemetry Transport**
 
