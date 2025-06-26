@@ -160,6 +160,9 @@ Headers are key-value pairs that carry **metadata** about the request or respons
 
 ---
 
+</br>
+
+**UP NEXT**: Status codes
 
 
 
