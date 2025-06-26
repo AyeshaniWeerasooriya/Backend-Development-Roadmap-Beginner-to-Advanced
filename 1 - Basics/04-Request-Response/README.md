@@ -59,5 +59,13 @@ A typical HTTP **request** contains below things.
 
 </br>
 
-### 🧪 Example of a POST Request
+###  Example 
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/ef932f8b-2172-418a-be0f-d24f19eaf17b" alt="HTTP as a waiter" style="width:60%;" />
+</p>
+
+
+
+
 
