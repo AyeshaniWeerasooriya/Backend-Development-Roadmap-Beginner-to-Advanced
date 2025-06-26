@@ -101,7 +101,18 @@ The server responds with a structured message.
 </br>
 
 
-### 🧪 Example of a JSON Response
+###  Example
+
+This response uses HTTP/1.1 to inform the client that the login was successful (status 200), and it returns a JSON body containing a success message and an authentication token.
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/be75fd99-06a2-42ea-928a-83d55353cb8d" alt="HTTP as a waiter" style="width:60%;" />
+</p>
+
+
+
+
+
 
 
 
