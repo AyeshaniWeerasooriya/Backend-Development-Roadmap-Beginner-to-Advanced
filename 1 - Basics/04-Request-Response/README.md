@@ -1,6 +1,6 @@
 # 🚀 04 – Requests & Responses
 
-## ✍️ What Are Requests and Responses?
+## ✍️ What Are Requests and Responses
 
 Every interaction between a client (like a browser or mobile app) and a server is built around a cycle called the **request-response model**.
 
