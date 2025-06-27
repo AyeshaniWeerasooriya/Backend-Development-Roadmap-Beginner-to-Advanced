@@ -156,7 +156,7 @@ Headers are key-value pairs that carry **metadata** about the request or respons
 
 - HTTP methods like GET, POST, PUT, and DELETE define the core actions in APIs.
 
-- Mastering this cycle prepares you to build real-world backend systems and REST APIs.
+- Mastering this cycle prepares us to build real-world backend systems and REST APIs.
 
 ---
 
