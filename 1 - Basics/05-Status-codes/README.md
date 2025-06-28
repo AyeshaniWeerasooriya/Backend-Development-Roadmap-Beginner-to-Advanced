@@ -300,3 +300,17 @@ _Example Response_
 
 <br>
 
+
+---
+## ✍️ Final Thoughts
+
+- Status codes are like traffic lights for web communication.
+
+- Every response carries a code that informs success, failure, or next steps.
+
+- Understanding them helps in debugging, logging, and writing cleaner APIs.
+
+---
+</br>
+
+**UP NEXT**: Rest API
