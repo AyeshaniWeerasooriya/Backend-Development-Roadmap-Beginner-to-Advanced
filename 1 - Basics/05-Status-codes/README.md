@@ -73,6 +73,8 @@ Status codes are grouped by their first digit.
 
 These are the most frequently used status codes we'll encounter when building or testing web applications.
 
+<br>
+
 ### 🔹 200 OK
 
 The request was successful. The server returns the requested data.
@@ -313,4 +315,4 @@ _Example Response_
 ---
 </br>
 
-**UP NEXT**: Rest API
+**UP NEXT**: Rest APIs
