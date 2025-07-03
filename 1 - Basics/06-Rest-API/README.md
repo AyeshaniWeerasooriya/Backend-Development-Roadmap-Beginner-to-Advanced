@@ -27,36 +27,3 @@ The server is the kitchen.
 
 
 
-
-
-✍️ REST Principles
-
-REST follows specific principles:
-
-Principle
-
-Description
-
-Client-Server
-
-Separation of user interface and data storage
-
-Stateless
-
-Each request is independent and contains all required information
-
-Cacheable
-
-Responses can be stored by clients to improve performance
-
-Uniform Interface
-
-A consistent structure for requests and responses
-
-Layered System
-
-Intermediary servers can improve scalability and security
-
-Code on Demand
-
-Optional: server can send executable code
