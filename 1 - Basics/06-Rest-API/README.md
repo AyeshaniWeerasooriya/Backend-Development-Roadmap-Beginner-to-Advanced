@@ -135,21 +135,21 @@ Assume we’re building an API for managing books in a library.
 
 🔹 Create a New Book (POST)
 
-  Request
+  **Request**
 
   <pre>
-    POST /books
-    Content-Type: application/json
-
-    {
-      "title": "Atomic Habits",
-      "author": "James Clear"
-    }
+      POST /books
+      Content-Type: application/json
+  
+      {
+        "title": "Atomic Habits",
+        "author": "James Clear"
+      }
   </pre>
 
 ---
 
-  Response
+  **Response**
 
   <pre>
       HTTP/1.1 201 Created
@@ -159,5 +159,8 @@ Assume we’re building an API for managing books in a library.
         "message": "Book created successfully",
         "bookId": 101
       }
-    </pre>
-  
+  </pre>
+
+---
+
+
