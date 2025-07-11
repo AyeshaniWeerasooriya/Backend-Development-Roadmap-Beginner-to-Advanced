@@ -61,22 +61,22 @@ REST APIs use standard HTTP methods to perform actions.
   <tr>
     <td>GET</td>
     <td>Read data</td>
-    <td>GET /users (Get all users)</td> 
+    <td><code>GET /users</code> (Get all users)</td> 
   </tr>
    <tr>
     <td>POST</td>
     <td>Create new data</td>
-    <td>	POST /users (Create a new user)</td> 
+    <td><code>POST /users</code> (Create a new user)</td> 
   </tr>
    <tr>
     <td>PUT</td>
     <td>Update existing data</td>
-    <td>PUT /users/1 (Update user with ID 1)</td> 
+    <td><code>PUT /users/1</code> (Update user with ID 1)</td> 
   </tr>
    <tr>
     <td>DELETE</td>
     <td>Remove data</td>
-    <td>DELETE /users/1 (Delete user with ID 1)</td> 
+    <td><code>DELETE /users/1</code> (Delete user with ID 1)</td> 
   </tr>
 </table>
 
