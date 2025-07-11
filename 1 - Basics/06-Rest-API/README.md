@@ -186,5 +186,6 @@ Create a New Book (POST)
 
 ---
 </br>
-**UP NEXT:** Server Side Frameworks
+
+**UP NEXT**: Server Side Frameworks
 
