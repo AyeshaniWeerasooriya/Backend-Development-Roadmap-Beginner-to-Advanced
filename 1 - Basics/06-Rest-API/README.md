@@ -128,3 +128,21 @@ Assume we’re building an API for managing books in a library.
     </tr>
   </tbody>
 </table>
+
+---
+
+## ✍️ Sample Request & Response
+
+🔹 Create a New Book (POST)
+
+  Request
+
+  <pre>
+    POST /books
+    Content-Type: application/json
+
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear"
+    }
+  </pre>
