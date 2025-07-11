@@ -146,3 +146,18 @@ Assume we’re building an API for managing books in a library.
       "author": "James Clear"
     }
   </pre>
+
+---
+
+  Response
+
+  <pre>
+      HTTP/1.1 201 Created
+      Content-Type: application/json
+
+      {
+        "message": "Book created successfully",
+        "bookId": 101
+      }
+    </pre>
+  
