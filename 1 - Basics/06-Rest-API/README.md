@@ -164,5 +164,13 @@ Create a New Book (POST)
 
 ---
 
+## ✍️ Tools to Test REST APIs
 
+- Postman
+
+- Insomnia
+
+- Curl (Terminal)
+
+- Thunder Client (VS Code Extension)
 
