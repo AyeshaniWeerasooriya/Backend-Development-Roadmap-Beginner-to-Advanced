@@ -174,3 +174,17 @@ Create a New Book (POST)
 
 - Thunder Client (VS Code Extension)
 
+---
+
+## ✍️ Final Thoughts
+
+- REST APIs help your app talk to the backend.
+
+- They rely on HTTP methods and status codes.
+
+- Understanding endpoints and methods is key to backend development.
+
+---
+</br>
+**UP NEXT:** Server Side Frameworks
+
