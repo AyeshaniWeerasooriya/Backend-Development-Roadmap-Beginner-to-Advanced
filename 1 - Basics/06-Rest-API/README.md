@@ -133,7 +133,8 @@ Assume we’re building an API for managing books in a library.
 
 ## ✍️ Sample Request & Response
 
-🔹 Create a New Book (POST)
+Create a New Book (POST)
+<br>
 
   **Request**
 
@@ -162,5 +163,6 @@ Assume we’re building an API for managing books in a library.
   </pre>
 
 ---
+
 
 
