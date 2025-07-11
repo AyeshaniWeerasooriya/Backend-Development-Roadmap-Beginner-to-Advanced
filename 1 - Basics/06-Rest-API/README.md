@@ -25,8 +25,8 @@
 
 <table> 
   <tr> 
-    <td><b>Principle</b></td> 
-    <td><b>Description</b></td> 
+    <td align="center"><b>Principle</b></td> 
+    <td align="center"><b>Description</b></td> 
   </tr> 
   <tr> 
     <td>Stateless</td> 
