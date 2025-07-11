@@ -45,3 +45,40 @@
     <td>Responses can be cached to improve performance.</td> 
   </tr> 
 </table>
+
+---
+
+## ✍️ HTTP Methods in REST
+
+REST APIs use standard HTTP methods to perform actions.
+
+<table>
+  <tr>
+    <td align="center"><b>Method</b></td>
+    <td align="center"><b>Purpose</b></td>
+    <td align="center"><b>Example</b></td>
+  </tr>
+  <tr>
+    <td>GET</td>
+    <td>Read data</td>
+    <td>GET /users (Get all users)</td> 
+  </tr>
+   <tr>
+    <td>POST</td>
+    <td>Create new data</td>
+    <td>	POST /users (Create a new user)</td> 
+  </tr>
+   <tr>
+    <td>PUT</td>
+    <td>Update existing data</td>
+    <td>PUT /users/1 (Update user with ID 1)</td> 
+  </tr>
+   <tr>
+    <td>DELETE</td>
+    <td>Remove data</td>
+    <td>DELETE /users/1 (Delete user with ID 1)</td> 
+  </tr>
+</table>
+
+---
+
