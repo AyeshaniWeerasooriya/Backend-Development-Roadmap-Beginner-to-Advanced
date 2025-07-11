@@ -82,3 +82,49 @@ REST APIs use standard HTTP methods to perform actions.
 
 ---
 
+## ✍️ REST API Endpoint Example
+
+Assume we’re building an API for managing books in a library.
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>HTTP Method</th>
+      <th>Endpoint</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Get all books</td>
+      <td>GET</td>
+      <td><code>/books</code></td>
+      <td>Returns a list of books</td>
+    </tr>
+    <tr>
+      <td>Get single book</td>
+      <td>GET</td>
+      <td><code>/books/10</code></td>
+      <td>Get book with ID 10</td>
+    </tr>
+    <tr>
+      <td>Add a book</td>
+      <td>POST</td>
+      <td><code>/books</code></td>
+      <td>Add new book</td>
+    </tr>
+    <tr>
+      <td>Update a book</td>
+      <td>PUT</td>
+      <td><code>/books/10</code></td>
+      <td>Update book with ID 10</td>
+    </tr>
+    <tr>
+      <td>Delete a book</td>
+      <td>DELETE</td>
+      <td><code>/books/10</code></td>
+      <td>Delete book with ID 10</td>
+    </tr>
+  </tbody>
+</table>
