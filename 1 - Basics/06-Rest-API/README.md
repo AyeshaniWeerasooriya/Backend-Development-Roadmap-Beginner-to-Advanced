@@ -86,6 +86,11 @@ REST APIs use standard HTTP methods to perform actions.
 
 Assume we’re building an API for managing books in a library.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0781085-ef69-426a-a64a-a68ef6a4f8e0" alt="HTTP as a waiter" style="width:60%;" />
+</p>
+
 <table border="1">
   <thead>
     <tr>
