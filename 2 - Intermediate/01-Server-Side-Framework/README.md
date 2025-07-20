@@ -270,19 +270,19 @@ Server side frameworks are the foundation of modern backend development. Choosin
 
 Here’s a quick recap:
 
-Spring Boot – For robust and scalable Java-based enterprise apps
+- Spring Boot – For robust and scalable Java-based enterprise apps
 
-Node.js & Express.js – Lightweight, fast, perfect for microservices and real-time apps
+- Node.js & Express.js – Lightweight, fast, perfect for microservices and real-time apps
 
-NestJS – TypeScript-powered architecture with structure and testability
+- NestJS – TypeScript-powered architecture with structure and testability
 
-Django – Secure and complete framework for rapid Python development
+- Django – Secure and complete framework for rapid Python development
 
-FastAPI – Lightning-fast APIs with auto docs and modern Python features
+- FastAPI – Lightning-fast APIs with auto docs and modern Python features
 
-Ruby on Rails – A veteran choice for fast, elegant startup applications
+- Ruby on Rails – A veteran choice for fast, elegant startup applications
 
-.NET Core – Best for enterprise-grade C# applications on Microsoft’s ecosystem
+- .NET Core – Best for enterprise-grade C# applications on Microsoft’s ecosystem
 
 
 </br>
