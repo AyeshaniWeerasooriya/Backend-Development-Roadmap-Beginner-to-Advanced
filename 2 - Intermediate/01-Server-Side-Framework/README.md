@@ -233,4 +233,65 @@ Ruby on Rails, often just called Rails, is a mature and elegant framework that p
 
 ---
 
+## _08. .NET Core_
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/e1233b5e-8b29-49da-819f-1eb2e6013a10" alt=".NET Core Logo" width="300"/> </p>
+
+.NET Core (now known as .NET 6/7+) is Microsoft’s open-source framework for building cross-platform backend applications using C#. It combines enterprise-level power with developer-friendly tools.
+
+
+🟢 Why It Stands Out:
+
+- Extremely fast, scalable, and secure
+
+- Excellent integration with Microsoft Azure, SQL Server, and other enterprise tools
+
+- Built-in dependency injection, middleware, and authentication support
+
+<br>
+
+🟢 Best Fit For:
+
+- Microsoft-based enterprise solutions
+
+- Cloud-native backend systems
+
+- High-security applications in finance, health, and retail
+
+<br>
+
+---
+
+</br>
+
+## ✍️ Final Thoughts
+
+Server side frameworks are the foundation of modern backend development. Choosing the right one depends on the project’s needs, preferred language, team experience, and performance goals. Each framework listed here is proven in real-world systems and continues to evolve with the latest demands in technology.
+
+Here’s a quick recap:
+
+Spring Boot – For robust and scalable Java-based enterprise apps
+
+Node.js & Express.js – Lightweight, fast, perfect for microservices and real-time apps
+
+NestJS – TypeScript-powered architecture with structure and testability
+
+Django – Secure and complete framework for rapid Python development
+
+FastAPI – Lightning-fast APIs with auto docs and modern Python features
+
+Ruby on Rails – A veteran choice for fast, elegant startup applications
+
+.NET Core – Best for enterprise-grade C# applications on Microsoft’s ecosystem
+
+
+</br>
+
+---
+
+***UP NEXT:*** Databases – Routing
+
+
+
+
 
