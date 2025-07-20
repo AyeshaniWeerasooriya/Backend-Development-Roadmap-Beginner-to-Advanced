@@ -108,3 +108,32 @@ Express.js is a minimal and flexible Node.js framework designed for building web
 - Real-time apps
 
 - Projects needing full customization
+
+
+## _04. NestJS_
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/3e94b496-f417-4cbf-86ec-9be89118dc71" alt="NestJS Logo" width="320"/> </p>
+
+NestJS is a progressive Node.js framework built with TypeScript. It blends object-oriented programming, functional programming, and reactive programming into one powerful toolkit.
+
+🟣 Why It Stands Out:
+
+- Ideal for building highly scalable, testable, and maintainable applications
+
+- Structure and modules resemble Angular, offering a familiar pattern to frontend developers
+
+- Great for enterprise apps, microservices, and real-time systems
+
+<br>
+
+🟣 Best Fit For:
+
+- Large-scale applications with complex architecture
+
+- Real-time applications like video calls, chats
+
+- Teams familiar with TypeScript and Angular patterns
+
+<br>
+
+---
