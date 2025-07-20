@@ -80,4 +80,31 @@ Node.js isn’t exactly a framework, but it forms the foundation for many server
 - Microservices architecture
 
 - Scalable, lightweight applications
+  
+<br>
 
+---
+
+## _03. Express.js_
+   
+<p align="center"> <img src="https://github.com/user-attachments/assets/82fbd1db-ff61-4968-870b-233962f60ea1" alt="Express Logo" width="300"/> </p>
+
+Express.js is a minimal and flexible Node.js framework designed for building web APIs and server-side applications. Its simplicity and unopinionated nature make it a go-to choice for developers who want full control over their architecture.
+
+🟡 Why It Stands Out:
+
+- Clean and fast routing mechanism
+
+- Works seamlessly with any frontend or database
+
+- Used by companies like Uber, IBM, and Accenture
+
+  <br>
+
+🟡 Best Fit For:
+
+- Lightweight RESTful APIs
+
+- Real-time apps
+
+- Projects needing full customization
