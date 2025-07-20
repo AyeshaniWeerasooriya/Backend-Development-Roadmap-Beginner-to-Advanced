@@ -153,7 +153,7 @@ NestJS is a progressive Node.js framework built with TypeScript. It blends objec
 
 ## _05. Django_
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/e87bbf94-59cb-4c6a-a0a6-f0e4dbd4c205" alt="Django Logo" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/55028506-528e-4cb8-914b-9ed9d4884523" alt="Django Logo" width="350"/> </p>
 
 Django is a high-level Python framework focused on delivering clean, secure, and scalable applications. It encourages rapid development and clean, pragmatic design.
 
@@ -182,7 +182,7 @@ Django is a high-level Python framework focused on delivering clean, secure, and
 
 ## _06. FastAPI_
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/f43f9c93-5a5a-4b07-8f55-b92b15dfd6e1" alt="FastAPI Logo" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/506c3c3d-07f4-4cb9-8ab8-756dcea52664" alt="FastAPI Logo" width="400"/> </p>
 
 FastAPI is a rising star among Python frameworks. Designed for building APIs with speed and performance in mind, it’s fully asynchronous and based on modern Python 3.6+ features like type hints and async/await.
 
@@ -209,9 +209,10 @@ FastAPI is a rising star among Python frameworks. Designed for building APIs wit
 
 ---
 
+
 ## _07. Ruby on Rails (Ruby)_
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/5e4f3b3d-fb2b-47c8-a1ec-c3d3250cb27e" alt="Ruby on Rails Logo" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/9c77cdf2-389d-43c6-9e63-e4022387d50b" alt="Ruby on Rails Logo" width="350"/> </p>
 
 Ruby on Rails, often just called Rails, is a mature and elegant framework that powers web applications using convention over configuration. It’s particularly strong in startups and MVP development.
 
