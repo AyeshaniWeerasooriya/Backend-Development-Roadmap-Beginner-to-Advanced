@@ -200,3 +200,37 @@ FastAPI is a rising star among Python frameworks. Designed for building APIs wit
 
 - Teams that prioritize performance and developer productivity
 
+<br>
+
+---
+
+## _07. Ruby on Rails (Ruby)_
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/5e4f3b3d-fb2b-47c8-a1ec-c3d3250cb27e" alt="Ruby on Rails Logo" width="300"/> </p>
+
+Ruby on Rails, often just called Rails, is a mature and elegant framework that powers web applications using convention over configuration. It’s particularly strong in startups and MVP development.
+
+
+🔴 Why It Stands Out:
+
+- Highly productive, great for launching products quickly
+
+- Offers built-in tools for testing, routing, security, and database migrations
+
+- Famous apps like GitHub, Shopify, and Airbnb were originally built with Rails
+
+<br>
+
+🔴 Best Fit For:
+
+- Startups building MVPs or web apps
+
+- Rapid development with minimal setup
+
+- Developers looking for elegance and speed
+
+<br>
+
+---
+
+
