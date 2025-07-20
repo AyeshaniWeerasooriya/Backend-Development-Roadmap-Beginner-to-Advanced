@@ -117,11 +117,13 @@ Express.js is a minimal and flexible Node.js framework designed for building web
 
 <br>
 
+
+
 ---
 
 ## _04. NestJS_
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/3e94b496-f417-4cbf-86ec-9be89118dc71" alt="NestJS Logo" width="320"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/f30a2e84-deb8-4f76-b84f-1e1a9297e0ae" alt="NestJS Logo" width="400"/> </p>
 
 NestJS is a progressive Node.js framework built with TypeScript. It blends object-oriented programming, functional programming, and reactive programming into one powerful toolkit.
 
