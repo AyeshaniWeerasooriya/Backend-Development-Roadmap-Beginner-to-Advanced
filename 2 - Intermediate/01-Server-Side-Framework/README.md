@@ -1,4 +1,4 @@
-# 🚀 07 - Server Side Frameworks
+# 🚀 07 - Backend Frameworks
 
 ## ✍️ What is a Server Side Framework
 
