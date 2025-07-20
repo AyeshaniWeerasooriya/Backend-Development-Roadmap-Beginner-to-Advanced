@@ -53,3 +53,31 @@ Spring Boot is a battle-tested framework for building enterprise-level applicati
 
 - Java developers building large, modular systems
 
+<br>
+
+---
+
+## _02. Node.js_
+   
+<p align="center"> <img src="https://github.com/user-attachments/assets/863d759b-f175-4fde-8e98-a2d4ad1b45b1" alt="Node.js Logo" width="320"/> </p>
+
+Node.js isn’t exactly a framework, but it forms the foundation for many server side tools and libraries. Built on Chrome’s V8 engine, it executes JavaScript on the server side, enabling fast, scalable, event-driven applications.
+
+🟢 Why It Stands Out
+
+- Lightweight and non-blocking I/O, perfect for real-time apps
+
+- Supports huge ecosystems via npm (Node Package Manager)
+
+- Blurs the line between frontend and backend by using JavaScript on both ends
+
+<br> 
+
+🟢 Best Fit For
+
+- Real-time apps like chat, games, and streaming
+
+- Microservices architecture
+
+- Scalable, lightweight applications
+
