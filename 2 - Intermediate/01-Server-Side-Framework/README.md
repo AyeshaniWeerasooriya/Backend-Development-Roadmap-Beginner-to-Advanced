@@ -33,6 +33,7 @@
 
 Spring Boot is a battle-tested framework for building enterprise-level applications in Java. It simplifies the complex configuration of the traditional Spring framework, making backend development more streamlined and productive.
 
+
 🟢 Why It Stands Out
 
 - Ideal for creating robust, secure, and scalable enterprise systems
@@ -63,6 +64,7 @@ Spring Boot is a battle-tested framework for building enterprise-level applicati
 
 Node.js isn’t exactly a framework, but it forms the foundation for many server side tools and libraries. Built on Chrome’s V8 engine, it executes JavaScript on the server side, enabling fast, scalable, event-driven applications.
 
+
 🟢 Why It Stands Out
 
 - Lightweight and non-blocking I/O, perfect for real-time apps
@@ -90,6 +92,7 @@ Node.js isn’t exactly a framework, but it forms the foundation for many server
 <p align="center"> <img src="https://github.com/user-attachments/assets/82fbd1db-ff61-4968-870b-233962f60ea1" alt="Express Logo" width="300"/> </p>
 
 Express.js is a minimal and flexible Node.js framework designed for building web APIs and server-side applications. Its simplicity and unopinionated nature make it a go-to choice for developers who want full control over their architecture.
+
 
 🟡 Why It Stands Out:
 
@@ -119,6 +122,7 @@ Express.js is a minimal and flexible Node.js framework designed for building web
 
 NestJS is a progressive Node.js framework built with TypeScript. It blends object-oriented programming, functional programming, and reactive programming into one powerful toolkit.
 
+
 🟣 Why It Stands Out:
 
 - Ideal for building highly scalable, testable, and maintainable applications
@@ -140,3 +144,59 @@ NestJS is a progressive Node.js framework built with TypeScript. It blends objec
 <br>
 
 ---
+
+
+## _05. Django_
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/e87bbf94-59cb-4c6a-a0a6-f0e4dbd4c205" alt="Django Logo" width="300"/> </p>
+
+Django is a high-level Python framework focused on delivering clean, secure, and scalable applications. It encourages rapid development and clean, pragmatic design.
+
+
+🔵 Why It Stands Out:
+
+- Comes with built-in features like authentication, admin panel, ORM, and form handling
+
+- Strong emphasis on security (e.g., protection against CSRF, SQL injection)
+
+- Powers sites like Instagram, Pinterest, and Mozilla
+
+<br>
+
+🔵 Best Fit For:
+
+- Secure backend systems
+
+- Rapid development of data-driven applications
+
+- Python developers looking for full-featured tools
+
+<br>
+
+---
+
+## _06. FastAPI_
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/f43f9c93-5a5a-4b07-8f55-b92b15dfd6e1" alt="FastAPI Logo" width="300"/> </p>
+
+FastAPI is a rising star among Python frameworks. Designed for building APIs with speed and performance in mind, it’s fully asynchronous and based on modern Python 3.6+ features like type hints and async/await.
+
+
+🟠 Why It Stands Out:
+
+- Insanely fast performance—comparable to Node.js and Go
+
+- Auto-generates interactive API documentation using Swagger
+
+- Ideal for high-performance microservices and machine learning backends
+
+<br>
+
+🟠 Best Fit For:
+
+- Fast and lightweight APIs
+
+- Machine learning and AI backends
+
+- Teams that prioritize performance and developer productivity
+
