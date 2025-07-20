@@ -9,18 +9,17 @@
 ---
 
 
-***Think of a server side framework like using Lego blocks to build a house instead of carving each brick from stone.***
+***_A server side framework is like working in a well-equipped bakery kitchen instead of building every tool and oven from scratch._***
 
 <table> 
   <tr> 
-    <td width="40%" align="center"> 
-      <img src="https://github.com/user-attachments/assets/82f4da28-fcac-4d56-9a61-733c103218b" alt="Framework Building" width="350"/> 
-    </td> 
+    <td width="40%" align="center"> <img src="https://github.com/user-attachments/assets/ff7a4a5b-d2d3-4c2a-8e61-fcad7a7e5a4b" alt="Framework Bakery" width="350"/> </td> 
     <td width="60%" align="left"> 
       <ul> 
-        <li>Just like Lego kits come with ready-made parts and instructions, frameworks come with structured tools and patterns.</li></br> 
-        <li>This helps in speeding up development, reducing bugs, and improving collaboration across teams.</li></br> 
-        <li>Instead of reinventing the wheel, developers focus on building features that matter most to the application.</li> </ul> 
+        <li>In a fully set-up bakery, all the tools - mixers, ovens, trays, and timers are already arranged and ready to use.</li></br> 
+        <li>This saves time and energy, allowing the chef to focus on making cakes and pastries rather than building the oven or mixing dough by hand.</li></br> 
+        <li>Similarly, a server side framework comes with built-in tools and features, so developers can focus directly on creating application logic and features instead of handling everything manually from the ground up.          </li> 
+      </ul> 
     </td> 
   </tr> 
 </table>
@@ -128,7 +127,7 @@ Express.js is a minimal and flexible Node.js framework designed for building web
 NestJS is a progressive Node.js framework built with TypeScript. It blends object-oriented programming, functional programming, and reactive programming into one powerful toolkit.
 
 
-🟣 Why It Stands Out:
+🔴 Why It Stands Out:
 
 - Ideal for building highly scalable, testable, and maintainable applications
 
@@ -138,7 +137,7 @@ NestJS is a progressive Node.js framework built with TypeScript. It blends objec
 
 <br>
 
-🟣 Best Fit For:
+🔴 Best Fit For:
 
 - Large-scale applications with complex architecture
 
@@ -158,7 +157,7 @@ NestJS is a progressive Node.js framework built with TypeScript. It blends objec
 Django is a high-level Python framework focused on delivering clean, secure, and scalable applications. It encourages rapid development and clean, pragmatic design.
 
 
-🔵 Why It Stands Out:
+🟤 Why It Stands Out:
 
 - Comes with built-in features like authentication, admin panel, ORM, and form handling
 
@@ -168,7 +167,7 @@ Django is a high-level Python framework focused on delivering clean, secure, and
 
 <br>
 
-🔵 Best Fit For:
+🟤 Best Fit For:
 
 - Secure backend systems
 
@@ -187,7 +186,8 @@ Django is a high-level Python framework focused on delivering clean, secure, and
 FastAPI is a rising star among Python frameworks. Designed for building APIs with speed and performance in mind, it’s fully asynchronous and based on modern Python 3.6+ features like type hints and async/await.
 
 
-🟠 Why It Stands Out:
+
+🔵 Why It Stands Out:
 
 - Insanely fast performance—comparable to Node.js and Go
 
@@ -197,7 +197,8 @@ FastAPI is a rising star among Python frameworks. Designed for building APIs wit
 
 <br>
 
-🟠 Best Fit For:
+
+🔵 Best Fit For:
 
 - Fast and lightweight APIs
 
@@ -247,7 +248,7 @@ Ruby on Rails, often just called Rails, is a mature and elegant framework that p
 .NET Core (now known as .NET 6/7+) is Microsoft’s open-source framework for building cross-platform backend applications using C#. It combines enterprise-level power with developer-friendly tools.
 
 
-🟢 Why It Stands Out:
+🟣 Why It Stands Out:
 
 - Extremely fast, scalable, and secure
 
@@ -257,7 +258,7 @@ Ruby on Rails, often just called Rails, is a mature and elegant framework that p
 
 <br>
 
-🟢 Best Fit For:
+🟣 Best Fit For:
 
 - Microsoft-based enterprise solutions
 
