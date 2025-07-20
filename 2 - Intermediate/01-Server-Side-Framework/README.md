@@ -153,7 +153,7 @@ NestJS is a progressive Node.js framework built with TypeScript. It blends objec
 
 ## _05. Django_
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/55028506-528e-4cb8-914b-9ed9d4884523" alt="Django Logo" width="350"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/55028506-528e-4cb8-914b-9ed9d4884523" alt="Django Logo" width="320"/> </p>
 
 Django is a high-level Python framework focused on delivering clean, secure, and scalable applications. It encourages rapid development and clean, pragmatic design.
 
@@ -239,9 +239,10 @@ Ruby on Rails, often just called Rails, is a mature and elegant framework that p
 
 ---
 
+
 ## _08. .NET Core_
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/e1233b5e-8b29-49da-819f-1eb2e6013a10" alt=".NET Core Logo" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/379bb100-53aa-47f2-90e2-90797441fb4e" alt=".NET Core Logo" width="380"/> </p>
 
 .NET Core (now known as .NET 6/7+) is Microsoft’s open-source framework for building cross-platform backend applications using C#. It combines enterprise-level power with developer-friendly tools.
 
