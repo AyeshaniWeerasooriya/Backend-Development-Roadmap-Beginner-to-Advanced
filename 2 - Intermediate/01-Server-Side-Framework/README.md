@@ -1,8 +1,8 @@
 # 🚀 07 - Backend Frameworks
 
-## ✍️ What is a Server Side Framework
+## ✍️ What is a Backend Framework
 
-- A server side framework is like ***a toolkit that helps developers build the backend of web applications faster, cleaner, and more efficiently***.
+- A backend framework is like ***a toolkit that helps developers build the backend of web applications faster, cleaner, and more efficiently***.
   
 - Instead of writing everything from scratch, a framework provides pre-built components, standard architecture, and utilities to handle common backend tasks like routing, authentication, database interaction, and API responses.
 
@@ -10,7 +10,7 @@
 
 
 
-***_A server side framework is like working in a well-equipped bakery kitchen instead of building every tool and oven from scratch._***
+***_A backend framework is like working in a well-equipped bakery kitchen instead of building every tool and oven from scratch._***
 
 <table> 
   <tr> 
@@ -19,7 +19,7 @@
       <ul> 
         <li>In a fully set-up bakery, all the tools - mixers, ovens, trays, and timers are already arranged and ready to use.</li></br> 
         <li>This saves time and energy, allowing the chef to focus on making cakes and pastries rather than building the oven or mixing dough by hand.</li></br> 
-        <li>Similarly, a server side framework comes with built-in tools and features, so developers can focus directly on creating application logic and features instead of handling everything manually from the ground up.          </li> 
+        <li>Similarly, a backend framework comes with built-in tools and features, so developers can focus directly on creating application logic and features instead of handling everything manually from the ground up.          </li> 
       </ul> 
     </td> 
   </tr> 
@@ -28,7 +28,7 @@
 ---
 <br>
 
-## ✍️ Best Server Side Frameworks in 2025
+## ✍️ Best Backend Frameworks in 2025
 
 ## _01. Spring Boot_
 
@@ -276,7 +276,7 @@ Ruby on Rails, often just called Rails, is a mature and elegant framework that p
 
 ## ✍️ Final Thoughts
 
-Server side frameworks are the foundation of modern backend development. Choosing the right one depends on the project’s needs, preferred language, team experience, and performance goals. Each framework listed here is proven in real-world systems and continues to evolve with the latest demands in technology.
+Backend frameworks are the foundation of modern backend development. Choosing the right one depends on the project’s needs, preferred language, team experience, and performance goals. Each framework listed here is proven in real-world systems and continues to evolve with the latest demands in technology.
 
 Here’s a quick recap:
 
