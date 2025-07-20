@@ -2,17 +2,19 @@
 
 ## ✍️ What is a Server Side Framework
 
-- A server side framework is like ***a toolkit that helps developers build the backend of web applications faster, cleaner, and more efficiently***. 
+- A server side framework is like ***a toolkit that helps developers build the backend of web applications faster, cleaner, and more efficiently***.
+  
 - Instead of writing everything from scratch, a framework provides pre-built components, standard architecture, and utilities to handle common backend tasks like routing, authentication, database interaction, and API responses.
 
 ---
+
 
 ***Think of a server side framework like using Lego blocks to build a house instead of carving each brick from stone.***
 
 <table> 
   <tr> 
     <td width="40%" align="center"> 
-      <img src="https://github.com/user-attachments/assets/82f4da28-fcac-4d56-9a61-733c103218b5" alt="Framework Building" width="350"/> 
+      <img src="https://github.com/user-attachments/assets/82f4da28-fcac-4d56-9a61-733c103218b" alt="Framework Building" width="350"/> 
     </td> 
     <td width="60%" align="left"> 
       <ul> 
@@ -29,7 +31,7 @@
 
 ## _01. Spring Boot_
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/d3c96a60-cb5a-4b75-b2a2-3a511d5f4c91" alt="Spring Boot Logo" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/0b64f752-2c25-40e7-9d14-1d5cb976669b" alt="Spring Boot Logo" width="350"/> </p>
 
 Spring Boot is a battle-tested framework for building enterprise-level applications in Java. It simplifies the complex configuration of the traditional Spring framework, making backend development more streamlined and productive.
 
@@ -87,9 +89,10 @@ Node.js isn’t exactly a framework, but it forms the foundation for many server
 
 ---
 
+
 ## _03. Express.js_
    
-<p align="center"> <img src="https://github.com/user-attachments/assets/82fbd1db-ff61-4968-870b-233962f60ea1" alt="Express Logo" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/1235c456-61ea-4143-91d3-b11ea94f1587" alt="Express Logo" width="400"/> </p>
 
 Express.js is a minimal and flexible Node.js framework designed for building web APIs and server-side applications. Its simplicity and unopinionated nature make it a go-to choice for developers who want full control over their architecture.
 
@@ -289,7 +292,7 @@ Here’s a quick recap:
 
 ---
 
-***UP NEXT:*** Databases – Routing
+***UP NEXT:*** Routing
 
 
 
