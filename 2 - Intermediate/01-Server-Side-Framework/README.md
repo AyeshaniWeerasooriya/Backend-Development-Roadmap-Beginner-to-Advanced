@@ -9,11 +9,12 @@
 ---
 
 
+
 ***_A server side framework is like working in a well-equipped bakery kitchen instead of building every tool and oven from scratch._***
 
 <table> 
   <tr> 
-    <td width="40%" align="center"> <img src="https://github.com/user-attachments/assets/ff7a4a5b-d2d3-4c2a-8e61-fcad7a7e5a4b" alt="Framework Bakery" width="350"/> </td> 
+    <td width="40%" align="center"> <img src="https://github.com/user-attachments/assets/c042473e-9c96-4e24-b09c-77fa1e0aff7a" alt="Framework Bakery" width="350"/> </td> 
     <td width="60%" align="left"> 
       <ul> 
         <li>In a fully set-up bakery, all the tools - mixers, ovens, trays, and timers are already arranged and ready to use.</li></br> 
